@@ -1,6 +1,6 @@
 {
   "name": "quiz-corso-polizia",
-  "version": "1.0.3",
+  "version": "2.0.0",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
